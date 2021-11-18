@@ -1,0 +1,21 @@
+.board {
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid red;
+}
+table{
+    width: 600px;
+    height: 600px;
+    border: 2px solid black;
+
+}
+td {
+    border: 2px solid black;
+    text-align: center;
+}
+.pink{
+    background-color: plum;
+}
+.rotate {
+    transform: rotate(180deg);
+}
